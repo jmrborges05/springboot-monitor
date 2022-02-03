@@ -34,7 +34,7 @@ That's it. docker-compose builds the entire Grafana and Prometheus stack automag
 The Grafana Dashboard is now accessible via: `http://<Host IP Address>:3030` for example http://localhost:3030
 
 username - admin
-password - wonka (Password is stored in the `config.monitoring` env file)
+password - admin (Password is stored in the `config.monitoring` env file)
 
 The DataSource and Dashboard for Grafana are automatically provisioned.
 
