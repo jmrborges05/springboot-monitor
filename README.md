@@ -1,9 +1,6 @@
 # springbot-monitor Docker Stack with Prometheus + Grafana
 a prometheus and grafana docker container to monitor springbot api
 
-
-# Internet Monitoring Docker Stack with Prometheus + Grafana
-
 Stand-up a Docker [Prometheus](http://prometheus.io/) stack containing Prometheus, Grafana to collect and graph springbot reliability and throughput.
 
 ## Pre-requisites
